@@ -5,7 +5,7 @@ Hi, I'm Fluffy-Ducky. My hobbies include:
 - Piano
 - Admiring Ducks(they are so cute)
 
-![CuteDuck](/My files/Downloads/ducks.jpg)
+<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/how-to-keep-ducks-call-ducks-1615457181.jpg" alt="CuteDuck" width="150"/>
 
 #### :sparkles:Goals:sparkles:
 This Summer I hope to learn new coding languages, and to create interactive programs and make simple animations.
